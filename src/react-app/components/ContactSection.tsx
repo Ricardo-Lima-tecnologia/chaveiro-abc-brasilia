@@ -16,9 +16,7 @@ const contactInfo = [
     icon: MapPin,
     title: 'Endereço',
     lines: [
-      'SQSW 102 Quiosque 01, Bloco C',
-      'Sudoeste/Octogonal',
-      'Brasília - DF, 70670-510',
+      'Clsw 102 ao lado do bloco B no estacionamento ( Quiosque 01)',
     ],
   },
   {

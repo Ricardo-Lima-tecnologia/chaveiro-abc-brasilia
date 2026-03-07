@@ -134,9 +134,7 @@ export default function Footer() {
                   <MapPin className="w-4 h-4 text-secondary" />
                 </div>
                 <p className="text-white/70 text-sm">
-                  SQSW 102 Quiosque 01, Bloco C<br />
-                  Sudoeste/Octogonal<br />
-                  Brasília - DF
+                  Clsw 102 ao lado do bloco B no estacionamento ( Quiosque 01)
                 </p>
               </li>
               <li className="flex items-start gap-3">
