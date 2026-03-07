@@ -16,3 +16,9 @@ Para fazer build de produção:
 ```bash
 npm run build
 ```
+
+## Créditos
+
+Desenvolvido por **RicardoDev**
+
+© 2026 Chaveiro e Carimbos ABC. Todos os direitos reservados.

@@ -190,7 +190,7 @@ export default function Footer() {
             © {currentYear} Chaveiro e Carimbos ABC. Todos os direitos reservados.
           </p>
           <p className="text-white/30">
-            Chaveiro 24 Horas em Brasília - DF
+            Desenvolvido por <span className="text-amber-400 font-semibold">RicardoDev</span>
           </p>
         </div>
       </div>
