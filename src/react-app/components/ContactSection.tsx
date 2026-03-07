@@ -5,12 +5,12 @@ const contactInfo = [
   {
     icon: Phone,
     title: 'Telefones',
-    lines: ['(61) 99614-0483', '(61) 3342-3979', '(61) 99417-2908'],
+    lines: ['(61) 99614-0483', '(61) 98403-3553'],
   },
   {
     icon: Mail,
     title: 'E-mail',
-    lines: ['chaveiroabc@gmail.com'],
+    lines: ['chaveiroabc102@gmail.com'],
   },
   {
     icon: MapPin,

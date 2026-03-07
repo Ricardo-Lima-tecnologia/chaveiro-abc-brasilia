@@ -119,15 +119,14 @@ export default function Footer() {
                 </div>
                 <div className="text-sm">
                   <p className="text-white/90">(61) 99614-0483</p>
-                  <p className="text-white/70">(61) 3342-3979</p>
-                  <p className="text-white/70">(61) 99417-2908</p>
+                  <p className="text-white/70">(61) 98403-3553</p>
                 </div>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-8 h-8 bg-white/10 rounded-lg flex items-center justify-center flex-shrink-0 mt-0.5">
                   <Mail className="w-4 h-4 text-secondary" />
                 </div>
-                <p className="text-white/70 text-sm">chaveiroabc@gmail.com</p>
+                <p className="text-white/70 text-sm">chaveiroabc102@gmail.com</p>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-8 h-8 bg-white/10 rounded-lg flex items-center justify-center flex-shrink-0 mt-0.5">
