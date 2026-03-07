@@ -2,11 +2,17 @@
 
 Site: https://chaveiro-abc-brasilia.netlify.app
 
-This app was created using https://getmocha.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+Serviços profissionais de chaveiro 24 horas em Brasília-DF.
 
-To run the devserver:
-```
+## Como executar o projeto
+
+Para rodar o servidor de desenvolvimento:
+```bash
 npm install
 npm run dev
+```
+
+Para fazer build de produção:
+```bash
+npm run build
 ```

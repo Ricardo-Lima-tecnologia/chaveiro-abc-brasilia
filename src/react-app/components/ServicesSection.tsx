@@ -72,17 +72,6 @@ export default function ServicesSection() {
           </p>
         </div>
 
-        {/* Featured Image */}
-        <div className="mb-12 md:mb-16 flex justify-center">
-          <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-amber-400/30 max-w-sm md:max-w-md">
-            <img 
-              src="https://019cc484-baa1-7ca8-ae0a-891631bf6d27.mochausercontent.com/WhatsApp-Image-2026-03-06-at-16.57.35.jpeg" 
-              alt="Chaveiro ABC - Pronto para melhor atender a domicílio"
-              className="w-full h-auto"
-            />
-          </div>
-        </div>
-
         {/* Services Grid - 2 columns mobile, 3 columns desktop */}
         <div className="grid grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4 lg:gap-6">
           {services.map((service, index) => (
