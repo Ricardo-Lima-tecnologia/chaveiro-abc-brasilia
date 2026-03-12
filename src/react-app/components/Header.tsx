@@ -24,7 +24,7 @@ export default function Header() {
               <Key className="w-6 h-6 text-[hsl(215,80%,20%)]" />
             </div>
             <div className="hidden sm:block">
-              <span className="text-white font-bold text-lg leading-tight block">Chaveiro ABC</span>
+              <span className="text-white font-bold text-lg leading-tight block">chaveiroABCexpres</span>
               <span className="text-amber-400 text-xs font-medium">24 Horas</span>
             </div>
           </a>

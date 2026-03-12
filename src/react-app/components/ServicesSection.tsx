@@ -77,7 +77,7 @@ export default function ServicesSection() {
           <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-amber-400/30 max-w-sm md:max-w-md">
             <img 
               src="/images/Felipe.jpeg" 
-              alt="Chaveiro ABC - Pronto para melhor atender a domicílio"
+              alt="chaveiroABCexpres - Pronto para melhor atender a domicílio"
               className="w-full h-auto"
             />
           </div>

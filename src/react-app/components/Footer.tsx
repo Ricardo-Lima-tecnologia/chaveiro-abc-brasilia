@@ -37,7 +37,7 @@ export default function Footer() {
                 <Key className="w-6 h-6 text-secondary-foreground" />
               </div>
               <div>
-                <h3 className="font-bold text-lg">Chaveiro ABC</h3>
+                <h3 className="font-bold text-lg">chaveiroABCexpres</h3>
                 <span className="text-secondary text-sm font-medium">24 Horas</span>
               </div>
             </div>
@@ -186,7 +186,7 @@ export default function Footer() {
       <div className="bg-[hsl(215,80%,8%)] py-4 px-4">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-sm">
           <p className="text-white/50">
-            © {currentYear} CHAVEIROABC - CNPJ: 64.020.079/0001-03. Todos os direitos reservados.
+            © {currentYear} chaveiroABCexpres - CNPJ: 64.020.079/0001-03. Todos os direitos reservados.
           </p>
           <p className="text-white/30">
             Desenvolvido por <a href="https://devricardolima.com/" target="_blank" rel="noopener noreferrer" className="text-amber-400 font-semibold hover:text-amber-300 transition-colors">RicardoDev</a>

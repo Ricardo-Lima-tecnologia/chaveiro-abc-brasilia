@@ -49,7 +49,7 @@ export default function WhyChooseUsSection() {
             Nossos Diferenciais
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-            Por que Escolher a <span className="text-secondary">Chaveiro ABC</span>?
+            Por que Escolher a <span className="text-secondary">chaveiroABCexpres</span>?
           </h2>
           <p className="text-white/70 max-w-2xl mx-auto text-lg">
             Há mais de 15 anos oferecendo soluções completas em chaveiro e carimbos 

@@ -1,4 +1,4 @@
-## Chaveiro e Carimbos ABC - Chaveiro 24 Horas em Brasília
+## chaveiroABCexpres - Chaveiro 24 Horas em Brasília
 
 Site: https://chaveiro-abc-brasilia.netlify.app
 
@@ -21,4 +21,4 @@ npm run build
 
 Desenvolvido por **RicardoDev-referência https://devricardolima.com/) **
 
-© © 2026 CHAVEIROABC - CNPJ: 64.020.079/0001-03. Todos os direitos reservados.
+© 2026 chaveiroABCexpres - CNPJ: 64.020.079/0001-03. Todos os direitos reservados.
