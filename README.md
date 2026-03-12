@@ -19,6 +19,6 @@ npm run build
 
 ## Créditos
 
-Desenvolvido por **RicardoDev**
+Desenvolvido por **RicardoDev-referência https://devricardolima.com/) **
 
-© 2026 Chaveiro e Carimbos ABC. Todos os direitos reservados.
+© © 2026 CHAVEIROABC - CNPJ: 64.020.079/0001-03. Todos os direitos reservados.
