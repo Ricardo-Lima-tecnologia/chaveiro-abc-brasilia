@@ -1,4 +1,4 @@
-import { MessageCircle, FileText, Clock, Shield, Zap } from 'lucide-react';
+import { MessageCircle, FileText, Clock, Shield, Zap, Phone } from 'lucide-react';
 
 export default function HeroSection() {
   const whatsappLink = 'https://wa.me/5561984033553';
@@ -113,6 +113,19 @@ export default function HeroSection() {
                     <p className="text-white/90 text-sm font-semibold">Todos os Dias</p>
                   </div>
                 </div>
+              </div>
+
+              {/* Call Box */}
+              <div className="absolute top-24 right-0 bg-gradient-to-br from-green-600 to-green-700 backdrop-blur-md rounded-2xl p-5 border-2 border-green-400 shadow-2xl shadow-green-500/50">
+                <a href="tel:5561984033553" className="flex items-center gap-3 group">
+                  <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
+                    <Phone className="w-6 h-6 text-green-600" />
+                  </div>
+                  <div>
+                    <p className="text-white/80 text-xs font-medium">Ligue Agora</p>
+                    <p className="text-white font-bold text-lg">(61) 98403-3553</p>
+                  </div>
+                </a>
               </div>
 
               <div className="absolute bottom-10 -left-4 bg-white/10 backdrop-blur-md rounded-xl p-4 border border-white/20 shadow-xl">
