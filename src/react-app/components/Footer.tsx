@@ -189,7 +189,7 @@ export default function Footer() {
             © {currentYear} CHAVEIROABC - CNPJ: 64.020.079/0001-03. Todos os direitos reservados.
           </p>
           <p className="text-white/30">
-            Desenvolvido por <span className="text-amber-400 font-semibold">RicardoDev</span>
+            Desenvolvido por <a href="https://devricardolima.com/" target="_blank" rel="noopener noreferrer" className="text-amber-400 font-semibold hover:text-amber-300 transition-colors">RicardoDev</a>
           </p>
         </div>
       </div>
