@@ -168,7 +168,7 @@ export default function Footer() {
               </div>
             </div>
             <a
-              href="https://api.whatsapp.com/message/TQB6CVIY6GBZE1?autoload=1&app_absent=0"
+              href="https://wa.me/5561984033553"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-6 rounded-lg transition-colors flex items-center gap-2"

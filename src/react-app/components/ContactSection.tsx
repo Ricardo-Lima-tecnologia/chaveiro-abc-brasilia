@@ -4,8 +4,8 @@ import { MapPin, Phone, Mail, Clock, Send, MessageCircle } from 'lucide-react';
 const contactInfo = [
   {
     icon: Phone,
-    title: 'Telefones',
-    lines: ['(61) 99614-0483', '(61) 98403-3553'],
+    title: 'Telefone',
+    lines: ['(61) 98403-3553'],
   },
   {
     icon: Mail,
@@ -45,7 +45,7 @@ export default function ContactSection() {
     await new Promise(resolve => setTimeout(resolve, 1000));
     
     // Open WhatsApp
-    window.open('https://api.whatsapp.com/message/TQB6CVIY6GBZE1?autoload=1&app_absent=0', '_blank');
+    window.open('https://wa.me/5561984033553', '_blank');
     
     setIsSubmitting(false);
     setSubmitted(true);

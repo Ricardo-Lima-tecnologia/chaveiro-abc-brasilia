@@ -48,7 +48,7 @@ const services = [
   },
 ];
 
-const whatsappLink = "https://api.whatsapp.com/message/TQB6CVIY6GBZE1?autoload=1&app_absent=0";
+const whatsappLink = "https://wa.me/5561984033553";
 
 export default function ServicesSection() {
   return (

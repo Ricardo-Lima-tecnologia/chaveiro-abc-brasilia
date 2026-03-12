@@ -1,7 +1,7 @@
 import { MessageCircle, FileText, Clock, Shield, Zap } from 'lucide-react';
 
 export default function HeroSection() {
-  const whatsappLink = 'https://api.whatsapp.com/message/TQB6CVIY6GBZE1?autoload=1&app_absent=0';
+  const whatsappLink = 'https://wa.me/5561984033553';
   
   return (
     <section className="relative min-h-screen flex items-center pt-20 overflow-hidden">
@@ -103,14 +103,14 @@ export default function HeroSection() {
               </div>
 
               {/* Floating Cards */}
-              <div className="absolute -top-4 right-0 bg-white/10 backdrop-blur-md rounded-xl p-4 border border-white/20 shadow-xl animate-bounce-slow">
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-green-500 rounded-full flex items-center justify-center">
-                    <Clock className="w-5 h-5 text-white" />
+              <div className="absolute -top-4 right-0 bg-gradient-to-br from-red-600 to-red-700 backdrop-blur-md rounded-2xl p-6 border-2 border-red-400 shadow-2xl shadow-red-500/50 animate-bounce-slow">
+                <div className="flex items-center gap-4">
+                  <div className="w-14 h-14 bg-white rounded-full flex items-center justify-center animate-pulse">
+                    <Clock className="w-8 h-8 text-red-600" />
                   </div>
                   <div>
-                    <p className="text-white font-bold text-sm">24 Horas</p>
-                    <p className="text-white/60 text-xs">Todos os dias</p>
+                    <p className="text-white font-extrabold text-xl">24 HORAS</p>
+                    <p className="text-white/90 text-sm font-semibold">Todos os Dias</p>
                   </div>
                 </div>
               </div>

@@ -4,8 +4,8 @@ import { Phone, Menu, X, Key } from 'lucide-react';
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   
-  const phoneNumber = '5561996140483';
-  const formattedPhone = '(61) 99614-0483';
+  const phoneNumber = '5561984033553';
+  const formattedPhone = '(61) 98403-3553';
 
   const navLinks = [
     { href: '#servicos', label: 'Serviços' },
