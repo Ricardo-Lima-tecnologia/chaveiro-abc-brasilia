@@ -118,8 +118,7 @@ export default function Footer() {
                   <Phone className="w-4 h-4 text-secondary" />
                 </div>
                 <div className="text-sm">
-                  <p className="text-white/90">(61) 99614-0483</p>
-                  <p className="text-white/70">(61) 98403-3553</p>
+                  <p className="text-white/90">(61) 98403-3553</p>
                 </div>
               </li>
               <li className="flex items-start gap-3">
@@ -187,7 +186,7 @@ export default function Footer() {
       <div className="bg-[hsl(215,80%,8%)] py-4 px-4">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4 text-sm">
           <p className="text-white/50">
-            © {currentYear} Chaveiro e Carimbos ABC. Todos os direitos reservados.
+            © {currentYear} CHAVEIROABC - CNPJ: 64.020.079/0001-03. Todos os direitos reservados.
           </p>
           <p className="text-white/30">
             Desenvolvido por <span className="text-amber-400 font-semibold">RicardoDev</span>
