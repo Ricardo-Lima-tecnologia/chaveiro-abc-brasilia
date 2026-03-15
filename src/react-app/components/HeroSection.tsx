@@ -83,7 +83,7 @@ export default function HeroSection() {
           </div>
 
           {/* Visual Element */}
-          <div className="hidden lg:block relative">
+          <div className="relative mt-8 lg:mt-0">
             <div className="relative w-full aspect-square max-w-lg mx-auto">
               {/* Decorative Circle */}
               <div className="absolute inset-0 bg-gradient-to-br from-amber-400/20 to-transparent rounded-full animate-pulse" />
