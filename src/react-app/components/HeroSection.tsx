@@ -103,27 +103,27 @@ export default function HeroSection() {
               </div>
 
               {/* Floating Cards */}
-              <div className="absolute -top-4 right-0 bg-gradient-to-br from-red-600 to-red-700 backdrop-blur-md rounded-2xl p-6 border-2 border-red-400 shadow-2xl shadow-red-500/50 animate-bounce-slow">
-                <div className="flex items-center gap-4">
-                  <div className="w-14 h-14 bg-white rounded-full flex items-center justify-center animate-pulse">
-                    <Clock className="w-8 h-8 text-red-600" />
+              <div className="absolute -top-4 right-0 bg-gradient-to-br from-red-600 to-red-700 backdrop-blur-md rounded-xl p-3 border-2 border-red-400 shadow-xl shadow-red-500/40 animate-bounce-slow">
+                <div className="flex items-center gap-2">
+                  <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center animate-pulse">
+                    <Clock className="w-5 h-5 text-red-600" />
                   </div>
                   <div>
-                    <p className="text-white font-extrabold text-xl">24 HORAS</p>
-                    <p className="text-white/90 text-sm font-semibold">Todos os Dias</p>
+                    <p className="text-white font-extrabold text-base">24 HORAS</p>
+                    <p className="text-white/90 text-xs font-semibold">Todos os Dias</p>
                   </div>
                 </div>
               </div>
 
               {/* Call Box */}
-              <div className="absolute top-24 right-0 bg-gradient-to-br from-green-600 to-green-700 backdrop-blur-md rounded-2xl p-5 border-2 border-green-400 shadow-2xl shadow-green-500/50">
-                <a href="tel:5561984033553" className="flex items-center gap-3 group">
-                  <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
-                    <Phone className="w-6 h-6 text-green-600" />
+              <div className="absolute top-20 right-0 bg-gradient-to-br from-green-600 to-green-700 backdrop-blur-md rounded-xl p-3 border-2 border-green-400 shadow-xl shadow-green-500/40">
+                <a href="tel:5561984033553" className="flex items-center gap-2 group">
+                  <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center group-hover:scale-110 transition-transform">
+                    <Phone className="w-5 h-5 text-green-600" />
                   </div>
                   <div>
                     <p className="text-white/80 text-xs font-medium">Ligue Agora</p>
-                    <p className="text-white font-bold text-lg">(61) 98403-3553</p>
+                    <p className="text-white font-bold text-base">(61) 98403-3553</p>
                   </div>
                 </a>
               </div>
